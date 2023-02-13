@@ -1,3 +1,3 @@
 # ML-algorthims
 
-Machine learnig algorithms
+Machine learning algorithms
